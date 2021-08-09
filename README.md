@@ -2,11 +2,11 @@
 
 * Script for processing data (read: Handleiding product Bestand geRegistreerde Ongevallen Nederland)
 * Example PowerBI (very basic and under construction)
-* OpenStreetmap:
+* [OpenStreetmap](https://www.openstreetmap.org/#map=14/52.2957/5.6220) and [QGIS](https://qgis.org/nl/site/):
   * mapping road accidents on neighborhood to finding safe routes to school.
   * working on an algorithm for automatic routing (python osmnx).
   * accesibility for blind and disabled (tactile_paving)
-  * reading: Route planning for blind pedestrians using OpenStreetMap ([document link](https://journals.sagepub.com/doi/full/10.1177/2399808320933907)
+  * reading: Route planning for blind pedestrians using OpenStreetMap [document link](https://journals.sagepub.com/doi/full/10.1177/2399808320933907)
 
 # Inzicht in de verkeersveiligheid op buurt en straat nivo
 
