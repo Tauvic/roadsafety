@@ -1,6 +1,6 @@
 # Repository for roadsafety projects
 
-* Script for processing data
+* Script for processing data (read: Handleiding product Bestand geRegistreerde Ongevallen Nederland)
 * Example PowerBI (very basic and under construction)
 * OpenStreetmap:
   * mapping road accidents on neighborhood to finding safe routes to school.
