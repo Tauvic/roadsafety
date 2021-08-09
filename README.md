@@ -2,6 +2,11 @@
 
 * Script for processing data
 * Example PowerBI (very basic and under construction)
+* OpenStreetmap:
+  * mapping road accidents on neighborhood to finding safe routes to school.
+  * working on an algorithm for automatic routing (python osmnx).
+  * accesibility for blind and disabled (tactile_paving)
+  * reading Route planning for blind pedestrians using OpenStreetMap ([ink](https://journals.sagepub.com/doi/full/10.1177/2399808320933907)
 
 # Inzicht in de verkeersveiligheid op buurt en straat nivo
 
