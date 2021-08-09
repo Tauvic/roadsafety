@@ -5,9 +5,12 @@
 * [OpenStreetmap](https://www.openstreetmap.org/#map=14/52.2957/5.6220) and [QGIS](https://qgis.org/nl/site/):
   * mapping road accidents on neighborhood to finding safe routes to school.
   * working on an algorithm for automatic routing (python osmnx).
-  * accesibility for blind and disabled (tactile_paving)
-  * reading: Route planning for blind pedestrians using OpenStreetMap [document link](https://journals.sagepub.com/doi/full/10.1177/2399808320933907)
-  * [Reproducible road safety research with R](https://www.racfoundation.org/wp-content/uploads/Reproducible_road_safety_research_with_R_Lovelace_December_2020.pdf)
+  * accesibility for [blind](https://wiki.openstreetmap.org/wiki/OSM_for_the_blind) and disabled (tactile_paving)
+
+Reading list: 
+* Route planning for blind pedestrians using OpenStreetMap [document link](https://journals.sagepub.com/doi/full/10.1177/2399808320933907)
+* [Reproducible road safety research with R](https://www.racfoundation.org/wp-content/uploads/Reproducible_road_safety_research_with_R_Lovelace_December_2020.pdf)
+* [Comparison of Open Source routing services with OpenStreetMap Data for blind pedestrians](https://europe.foss4g.org/2014/sites/default/files/04-Dornhofer_0.pdf)
 
 TO-DO: scan github for keyword: road safety
 
