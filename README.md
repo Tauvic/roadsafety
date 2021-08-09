@@ -25,6 +25,8 @@ Informatie over verkeersongevallen beschikbaar stellen aan burgers zodat deze ge
 * Welke maatregelen zijn er getroffen om de veiligheid te verhogen?
 * Is er een veilige route naar mijn werk en de school te vinden?
 
+Reactief en actief: We kunnen wachten tot er voldoende informatie is over verkeersongevallen en dan maatregelen nemen. Of we proberen inzicht te krijgen in de verkeerssituatie en bereiden ons voor. Dit is een taak voor de gemeente en de overheid, maar de burger kan ook iets doen door mee te denken. Ook neemt een overheid beslissingen op basis van financiele en economische gronden die niet altijd overeenkomen met de wensen van bewoners.
+
 Toon een kaart van nederland met de actuele gemeente en buurt indeling, plaatsen waar ongevallen hebben plaastgevonden en de door de gemeente of provincie genomen verkeersmaatregelen.
 
 [Verkeersongevallen - Bestand geRegistreerde Ongevallen Nederland](https://data.overheid.nl/en/dataset/9841-verkeersongevallen---bestand-geregistreerde-ongevallen-nederland)
