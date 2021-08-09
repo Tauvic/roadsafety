@@ -1,7 +1,7 @@
 # Repository for roadsafety projects
 
 * Script for processing data
-* Example PowerBI
+* Example PowerBI (very basic and under construction)
 
 # Inzicht in de verkeersveiligheid op buurt en straat nivo
 
